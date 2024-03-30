@@ -1,8 +1,8 @@
 class B1DiceGame extends ConsoleProgram {
 
   /**
-  * Description
-  * @author:
+  * 
+  * @author: 
   */
   
   public void run() {

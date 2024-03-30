@@ -1,8 +1,8 @@
 class A1FreezingHot extends ConsoleProgram {
 
   /**
-  * Description
-  * @author:
+  * 
+  * @author: 
   */
   
   public void run() {
